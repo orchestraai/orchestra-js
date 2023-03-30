@@ -1,0 +1,24 @@
+{
+  "name": "orchestra",
+  "version": "0.0.1",
+  "description": "Orchestra Javascript SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orchestraai/orchestra-js.git"
+  },
+  "keywords": [
+    "orchestra",
+    "orchestra",
+    "js"
+  ],
+  "author": "Jason Jin <jasonjinhuan@gmail.com> (https://useorchestra.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/orchestraai/orchestra-js/issues"
+  },
+  "homepage": "https://github.com/orchestraai/orchestra-js#readme"
+}
